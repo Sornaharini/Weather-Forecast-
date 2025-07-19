@@ -1,6 +1,12 @@
 # Weather Forecast Application 🌦️
 
 This project is developed as part of an 8-week internship under **CODTECH IT SOLUTIONS** in the domain of **MERN Stack Web Development**.
+## Company: CODTECH IT SOLUTIONS  
+**Name**: SORNAHARINI.D  
+**Intern ID**: CT08DM1085  
+**Domain**: MERN Stack Web Development  
+**Duration**: 8 Weeks  
+
 
 ## 🌐 About the Project
 
