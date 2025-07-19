@@ -15,7 +15,7 @@ The **Weather Forecast Application** is a dynamic web app that allows users to g
 
 ## 📸 Project Outcome
 
-![Weather Application Screenshot](./assets/weatherapplication_outcome.png)
+![Weather Application Screenshot](./assets/images/weatherapplication_outcome.png)
 
 
 ## ⚙️ Features
