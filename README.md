@@ -17,6 +17,7 @@ The **Weather Forecast Application** is a dynamic web app that allows users to g
 
 ![Weather Application Screenshot](./assets/weatherapplication_outcome.png)
 
+
 ## ⚙️ Features
 
 - Search by city name to get weather data instantly  
